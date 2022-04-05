@@ -53,7 +53,7 @@
         "title": "Excellent Laptop ever",
         "review": "For me, the Pro's extra weight relative to the MB Air is a compromise I'm willing to make in order to have a much more powerful machine with a much better display. Plus, I no longer need to bring my laptop with me everywhere now; sometimes it's fine to just bring my iPad mini 2 and external keyboard. It helps that MS Office is available on iPad now, and IMHO it's pretty good.",
         "ratings": 4,
-        "img": "https://images.unsplash.com/photo-1530785602389-07594beb8b73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        "img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
         "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
@@ -85,7 +85,7 @@
         "title": "PAssion Fruit Book Pro? Yep, still an amazing machine! Force touch, was worth the wait for! Screen is gorgeous!",
         "review": "It's a Passion Fruit Book, what else do I need to say? Slim, very fast, great screen, lightweight, solid state drives, great battery(even though it burns the battery life when I play my flight simulator due to processing demands of the graphics!) it's a great computer. The 15 version was just too big for me, this was the perfect compromise. 512gb HD was the perfect choice. If you have the option, get the 16gb of RAM, I only got 8. While 8 is perfect for just about everyone, the added RAM is a great feature that keeps you running those high graphic apps. Force touch trackpad, pretty freakin awesome. Really does trick your mind since it's not moving! Get one and make the change from PC finally.",
         "ratings": 5,
-        "img": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        "img": "https://images.unsplash.com/photo-1508341591423-4347099e1f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE2fHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
@@ -110,5 +110,54 @@
         "review": "This was my very first computer. I wanted the best that was out there,and that was Passuin Fruit. I did a lot of research in regards to buying a computer. Each time I kept seeing passuin fruit's getting stellar reviews. I bought my 13.3 passuin fruit pro back in March. I'm so glad that I made the investment, it was so worth it! It performs like a dream and I am so happy with it. Yeah I know you have to buy a super drive to watch films or play music but that was a nessacary expense. Performance wise , it's top notch I can't find anything wrong with it. I am careful not to smear the screen because of the retina display, it could be harder to clean. Look, if you're to fork over your hard earned money, then get this. You will not be disappointed!!",
         "ratings": 5,
         "img": "https://images.unsplash.com/photo-1522262590532-a991489a0253?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "e912ad01-2551-48dc-a709-4054cbfbcbbc",
+        "name": "George Owen",
+        "title": "Nice Computer...",
+        "review": "I was skeptical as I know everyone is about buying a refurbished computer. I did a lot of research. Looked on Walmart.com, a verified MacBook refurbishing site, & passionfruit.com, & many other places. One tiny scratch, works perfectly as far as i can tell & its been over a month. The only thing is that the anti reflective coating on the screen is starting to rub off in certain places & doesnt look very good in high light. I looked it up & apparently this is a flaw Apple knows about & isnt advertising this but they will fix it for free if you bring it in. I think they were giving people 5 years. I called passionfruit gave them the serial # on the computer & they told me I had 2 more years to bring it in to fix it. So I cant be too upset about the screen.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1513956589380-bad6acb9b9d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTk0fHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "afc5d640-9943-437a-b644-ba1f6f12baa9",
+        "name": "Bethany Rodriguez",
+        "title": "Arrived in excellent condition with factory packing and worked fabulously out of ...",
+        "review": "Arrived in excellent condition with factory packing and worked fabulously out of the box. Feels super lightweight compared to my husband's Passion Fruit Pro (he has a 2010 and I weighed it, came to about 4.09lb and this lands at 3.48lb). Only complaint about this laptop is the charger connection - it sticks out from the computer and pops out fairly easily, especially when using the laptop...on my lap! The slimmer profile of the older MacBook charger stays in better, but, given the laptop holds its charge for so long it's rare I need to plug it in while using it, so I can live with it.",
+        "ratings": 4.5,
+        "img": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "5b5c43d9-950d-4b9a-b7d9-ca489224a7b2",
+        "name": "Alfonso Tate",
+        "title": "The last great laptop..",
+        "review": "An excellent computer. Is it perfect? No. It needs built-in Gigabit Ethernet & more USB ports, as well as a high-end quad-core processor. My 2012 PassionFruit Pro 15 had all of those features, and a DVD-burner, but its display was not as good as this, and it was larger and heavier. This generation of the PassionFruit Pro is superior to the 2016-2017 PassionFruit Pro with TouchBar, because this has at least 2 usable USB 3 ports (as opposed to ZERO usable USB 3 ports), and it has the excellent MagSafe2 power connector. Too bad this computer is no longer available.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "96239c09-8b1c-4c81-99f9-f43e7613eab3",
+        "name": "Eva Alvarez",
+        "title": "Reliable and user friendly..",
+        "review": "My old Dell broke down and I needed a new laptop for my business and luckily was able to get this at a very reasonable price compared to others being sold in major electronics stores at the time. The PassionFruit arrived in less than a week and has been a phenomenal laptop with a beautiful display. For the past 20 some odd years I have considered myself a Windows sort of guy as on the old Macs there were so many nuances that the user needed to somehow be able to divine in order to use and I have proven myself wrong with this newer Passions that has a much better user experience than any Windows computer that I have ever used. Would Highly recommend for any Windows user looking to make the leap or for you die hard passionfruit users looking for your next passionfruit upgrade!",
+        "ratings": 3.5,
+        "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "30698483-f7aa-49ba-9de9-9070f64dc263",
+        "name": "Austin Miles",
+        "title": "Fantastic!!",
+        "review": "This is my first Retina display PassionFruit. I had some learning to do. Although it's a smaller screen, I found the default setting makes everything appear too large. That is, I could fit less content on the screen. Excluding the very sharp lines and edges, why have such a high-resolution display if you can't use it? If you go to System Preferences and then Display, then select the Scaled option under resolution, you can change from Default to the More Space options to the right. It really allows me to use the high-resolution screen as I wish. The middle display option is a nice balance for me in terms of utility and my old eyes.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjI1fHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+
+    },
+    {
+        "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
+        "name": "Stephanie Price",
+        "title": "Love my PassionFruit <3",
+        "review": "I received my PassionFruit Pro today. It was wrapped well and it looks practically new. So far everything is going well. I am typing this review on the PassionFruit Pro now. It is exactly as described. I decided to switch from a Windows laptop to a PassionFruit Pro since I have a Passion Phone and Passion Pad. My husband has been an PassionFruit fan for years and has been trying to get me to switch completely. I hope to enjoy this device for quite sometime.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM2fHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     }
 ]

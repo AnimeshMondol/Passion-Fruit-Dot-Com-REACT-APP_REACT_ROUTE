@@ -3,9 +3,13 @@ import React from 'react';
 import img from '../Images/3.png'
 import './Home.css'
 import { faPlay } from '@fortawesome/free-solid-svg-icons';
+import useReview from '../../Hooks/useReview';
+import ReviewCart from '../ReviewCart/ReviewCart';
 
 
 const Home = () => {
+    const [reviews, setReviews] = useReview();
+
     return (
         <div className='container my-5'>
             <div className='row row-cols-1 align-items-center g-5'>
@@ -23,6 +27,15 @@ const Home = () => {
             </div>
             <br />
             <h1 className='text-center fw-bolder my-5 text-color'>Customer Review!!</h1>
+            <div>
+                {
+                    reviews.map(reviews => <ReviewCart
+                    key={reviews.id}
+                    reviews={reviews} 
+                    ></ReviewCart>)
+                }
+            </div>
+
         </div>
     );
 };
