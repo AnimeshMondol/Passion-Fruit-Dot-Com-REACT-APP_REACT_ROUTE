@@ -5,7 +5,7 @@
         "title": "Best laptop",
         "review": "It's nice and lightweight, the SD port is useful, and it's powerful enough for me to do fairly layer intensive graphic design work in Photoshop and basic grading in Lightroom. The keys feel fantastic to type on. The overall design is sleek and pleasing to look at and hold. The force touch trackpad works great. Overall, I feel this is the best laptop I've ever purchased or used. It feels sturdy and reliable, both hardware and software-wise.",
         "ratings": 4,
-        "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        "img": "https://images.unsplash.com/photo-1495924979005-79104481a52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
@@ -159,5 +159,54 @@
         "review": "I received my PassionFruit Pro today. It was wrapped well and it looks practically new. So far everything is going well. I am typing this review on the PassionFruit Pro now. It is exactly as described. I decided to switch from a Windows laptop to a PassionFruit Pro since I have a Passion Phone and Passion Pad. My husband has been an PassionFruit fan for years and has been trying to get me to switch completely. I hope to enjoy this device for quite sometime.",
         "ratings": 4,
         "img": "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM2fHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "afc5d640-9943-437a-b644-ba1f6f12baa9",
+        "name": "Garry Yates",
+        "title": " I LOVE IT !...",
+        "review": "I LOVE IT!!! I used to have the Passion Fruit Pro 2013 edition and it was stolen from my car. I ordered this laptop on a Thursday and it arrived by Monday. With the macOS Sierra, I have Siri on my laptop and I am also able to log into google chrome and access the same exact information that I am looking at on Safari my IPhone. These features are awesome! This laptop is also much lighter than my other Passion Fruit Pro.",
+        "ratings": 4.5,
+        "img": "https://images.unsplash.com/photo-1517231461833-7301fb461719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=669&q=80"
+    },
+    {
+        "id": "5b5c43d9-950d-4b9a-b7d9-ca48h444a7b2",
+        "name": "Emanuel Wagner",
+        "title": "Works well as Apples do",
+        "review": "Works well as Apples do. The software is much better overall than Mac. It gets 3 stars as PassionFruit Pro are twice the price of a PC",
+        "ratings": 3,
+        "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzIwfHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "96239c09-8b1c-4c81-99f9-fggb4613eab3",
+        "name": "Levi Crawford",
+        "title": "I love this Passion Fruit PRO.",
+        "review": "I love this PasssionFruit!! My phone is an Android. I love my phone and I don't have the desire to buy an passionfruit. I learned to work on PassionFruit computers through my work. I have never regretted paying more money for the PassionFruit. When I was shopping and compared the Microsoft vs PassionFruit, I came to believe the Mac was a better fit for me. I've never regretted my decision!",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "30698483-f7aa-49ba-9de9-9070ffg4dc263",
+        "name": "Elsa Ball",
+        "title": "It is a piece of PassionFruit's superiority!!",
+        "review": "It is a piece of PassionFruit's superiority. The condition mine came has let me down a little. It was dirty on every corner, bump marks everywhere, tiny scratches on the metal inside and it's making weird noises once in a while. It works like heaven though.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1496372487738-7b9e5c55ddda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzY1fHxyYW5kb20lMjBwZW9wbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+
+    },
+    {
+        "id": "02871edc-272b-4e20-bcc2-b32552213b3c",
+        "name": "Rolando Silva",
+        "title": "ABSOLUTELY WONDERFUL!!!!",
+        "review": "I saved up for quite some time to purchase this PassionFruit, but it was definitely a GREAT investment! Having used a PC for the past 6-8 years, this is definitely an excellent improvement. The package got delivered early, and was in PERFECT condition! Was boxed up very nicely (twice actually) and came with everything. Nothing was broken or anything, and I was very excited to receive it. Definitely not a waste of money, and this is a very trustworthy seller. I am beyond pleased. Thank you.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "02871edc-272b-4770-bcc2-b32552213b3c",
+        "name": "Jessie Buchanan",
+        "title": "... can say is that this is by far the best product i have ever purchased",
+        "review": "All i can say is that this is by far the best product i have ever purchased. The product was new and sealed and the best part of it is the price was unreal! I love this computer, great performance, light, perfect for business trip. I would buy another one if i had the money lol",
+        "ratings": 4.5,
+        "img": "https://images.unsplash.com/photo-1485463598028-44d6c47bf23f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80"
     }
 ]
