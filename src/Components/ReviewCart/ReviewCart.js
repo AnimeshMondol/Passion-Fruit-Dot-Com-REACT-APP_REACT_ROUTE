@@ -1,5 +1,7 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import './ReviewCart.css'
+import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 const ReviewCart = ({ reviews }) => {
 
@@ -7,15 +9,16 @@ const ReviewCart = ({ reviews }) => {
 
     return (
         <div className='col'>
-            <div className='bg-light h-100 p-3 rounded-3 d-flex flex-column'>
+            <div className='bg-color h-100 p-3 rounded-3 d-flex flex-column'>
                 <img className='card-img-top img-size rounded-circle z-depth-2' src={img} alt="100*100" />
                 <div className='card-body'>
-                    <h1>Name: {name}</h1>
-                    <h3>Title: {title}</h3>
-                    <p>Review: {review}</p>
+                    <h4 className='text-center fw-bolder text-secondary'>{name}</h4>
+                    <h6 className='text-center fw-bold my-4 fs-5'>Title: {title}</h6>
+                    <hr />
+                    <p className='fw-bold text-primary'>Review: <span className='fw-normal text-dark fs-6'>{review}</span></p>
                 </div>
                 <div className='card-footer'>
-                    <p><small>Ratings: {ratings}</small></p>
+                    <h6 className='text-center'><small>Ratings: {ratings} out of 5 <FontAwesomeIcon className='text-danger' icon={faStar}></FontAwesomeIcon></small></h6>
                 </div>
             </div>
         </div>

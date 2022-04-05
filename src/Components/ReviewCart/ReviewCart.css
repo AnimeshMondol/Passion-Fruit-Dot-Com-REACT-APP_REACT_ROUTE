@@ -1,3 +1,11 @@
 .img-size{
     height: 450px;
 }
+.bg-color{
+    background-color: #9d2f5617;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.bg-color:hover {
+    border: 2px solid #9d2f56;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
