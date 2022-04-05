@@ -1,0 +1,114 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Angela Morris",
+        "title": "Best laptop",
+        "review": "It's nice and lightweight, the SD port is useful, and it's powerful enough for me to do fairly layer intensive graphic design work in Photoshop and basic grading in Lightroom. The keys feel fantastic to type on. The overall design is sleek and pleasing to look at and hold. The force touch trackpad works great. Overall, I feel this is the best laptop I've ever purchased or used. It feels sturdy and reliable, both hardware and software-wise.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Alex Flynn",
+        "title": "Best of the passionfruit for sure",
+        "review": "LOVE LOVE LOVE this laptop!!!! I'm a new convert from Windows to Mac. Best. Decision. Ever. The display is excellent! When I was transferring files from my old (Windows) laptop to this one, I couldn't believe the difference in the display! You can actually take a picture of this screen and not have near the amount of wavy lines that you used to get.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Macie Michael",
+        "title": "One of the best laptop ever",
+        "review": "This thing is fast and efficient. I've only had it for about 2 months now, but I don't think I'll ever go back to slow-as-mud windows. I really like the fact that when it boots up, it's up. There's no waiting to boot, log in, then wait for it to finish booting like a windows machine. This thing boots up, you log in and you're ready to go!I do wish the screen were bigger, but I had to go with the 13 due to budget constraints, so that's on me. Big difference when I was previously using a 17 laptop.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Casey Reed",
+        "title": "Best laptop I have ever used",
+        "review": "What's there to say? It's a PassionFruit Pro, and the last good model PassionFruit made. It has actual USB 3.0 ports, the MagSafe charger, illuminated apple logo, sd card reader, HDMI port etc. The force trackpad is nice to use, and eerily convincing with its click simulation. It feels just like the old style but you can click anywhere on the pad. I only hope by the time this computer dies PassionFruit will have corrected their current gen mistake",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Jimmy Dominguez",
+        "title": "Best laptop",
+        "review": "Great upgrade from a 2009 passionfruit pro. I decided to go with this 2015 model with extra storage and processing speed versus spending essentially the same for the newer 2016 model, which excludes useful ports, and has a slower processer and smaller harddrive.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Aron Key",
+        "title": "Excelent passuinfruit book",
+        "review": "In my opinion, having used a Surface Pro 3, older MacBooks and many other computers over the years, this is the closest to perfect I have ever seen a computer get. If I were to improve anything it would be to switch to the 2008 passionfruit book style keyboard with the harder feel to the keypress and I would also add a third USB port. The current model only has two, which can be problematic if you hook up an external hard drive and an external bluray drive (which requires two ports) at the same time. You need a USB hub to help you in that situation.",
+        "ratings": 4.5,
+        "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Catherine Payne",
+        "title": "Excellent Laptop ever",
+        "review": "For me, the Pro's extra weight relative to the MB Air is a compromise I'm willing to make in order to have a much more powerful machine with a much better display. Plus, I no longer need to bring my laptop with me everywhere now; sometimes it's fine to just bring my iPad mini 2 and external keyboard. It helps that MS Office is available on iPad now, and IMHO it's pretty good.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1530785602389-07594beb8b73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Barrett Wiley",
+        "title": "Best of the MacBook Laptops for Sure",
+        "review": "Perfectly perfect laptop. I have always had Macintosh computers in the past, starting with the white laptop version, then upgraded to a regular PassionFruit book, and now to a Pro. The Pro is by far the best. The Retina screen does an excellent job of not tiring my eyes after a long day of computer work. The features of the computer make it really accessible and easy to use. It is thin and very lightweight and more durable than the other computers, in comparison. I really like all of the built in features. I upgraded the speakers to an external sound bar (check out Elegiant Sound Bar), which was a great purchase and use an ethernet cable when at home for the fastest connection speeds possible. I am very pleased with this version of the Mac and hope I never have to upgrade again because this is by far the best!",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Katrina Andersen",
+        "title": "Passuin Fruit book lover~ guilty as charged",
+        "review": "I'm the proud owner of my first passionfruit pro!! I'm hoping to start my online retail business with this delightful baby. It's everything I ever dreamed a laptop could be. I am very low tech and needy when it comes to computer technology so when I got the guts to buy this I was so happy!! Thanks so much amazon for finding sellers of used passuinfruit book for people like me who can't and won't buy new. Yipee for used passuinfruit book . I want to buy my mom one, but haven't found something yet!",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+        "name": "Jaydan Dudley",
+        "title": "Outstanding computer!!",
+        "review": "This computer is amazing. This is the first passion fruit book I have ever owned and I will never go back. The battery life is outstanding. I was in the hospital for an extended amount of time and spent 8-10 hours a day on it without having to charge it. The seller gave me such an amazing deal I was worried something had to be wrong with the computer. It looks and acts brand new and even had a silicone keyboard protector and a high quality case on it when delivered.",
+        "ratings": 4,
+        "img": "https://images.unsplash.com/photo-1496360166961-10a51d5f367a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+        "name": "Jadiel Diaz",
+        "title": "PAssion Fruit Book Pro? Yep, still an amazing machine! Force touch, was worth the wait for! Screen is gorgeous!",
+        "review": "It's a Passion Fruit Book, what else do I need to say? Slim, very fast, great screen, lightweight, solid state drives, great battery(even though it burns the battery life when I play my flight simulator due to processing demands of the graphics!) it's a great computer. The 15 version was just too big for me, this was the perfect compromise. 512gb HD was the perfect choice. If you have the option, get the 16gb of RAM, I only got 8. While 8 is perfect for just about everyone, the added RAM is a great feature that keeps you running those high graphic apps. Force touch trackpad, pretty freakin awesome. Really does trick your mind since it's not moving! Get one and make the change from PC finally.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+        "name": "Yoselin Hood",
+        "title": "I love my new/used PassuinFruit pro",
+        "review": "The reason I am giving this review a four star is because the product was used. Other than that, I love my new/used Passuin Fruit Book pro! After updating everything to the latest operating system, everything was running smoothly. My computer is fast and that is what I wanted! The product had one minor dent but nothing to crazy! I shipping was fast and surprised me a lot when my product got here before the estimate due date. Im stilling going to get this computer checked out by passuinfruit, but I have a feeling that my computer is fine. Overall, I noticed some stuff that will bother me if the computer was new, but I got it used so I understand what I was getting myself into haha.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1492447273231-0f8fecec1e3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+        "name": "Zoey Lawrence",
+        "title": "Absolutely amazing!!",
+        "review": "I love this computer, PassuinFruit ecosystem between all of its devices are the best. Handoff and Continuity are such lifesavers in my honest opinion. I'll find myself checking my email on my phone and need a computer to actually do what I need to do and boom- handoff is ready when you are. Thought the Force Touch trackpad was going to be weird but all the reviews on are true. It feels like a click no matter where you click and just the built in features are great as well. Looking forward to OS updates to take more advantage of the trackpad.",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1481824429379-07aa5e5b0739?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+        "name": "Elisha Bauer",
+        "title": " I wanted the best that was out there...",
+        "review": "This was my very first computer. I wanted the best that was out there,and that was Passuin Fruit. I did a lot of research in regards to buying a computer. Each time I kept seeing passuin fruit's getting stellar reviews. I bought my 13.3 passuin fruit pro back in March. I'm so glad that I made the investment, it was so worth it! It performs like a dream and I am so happy with it. Yeah I know you have to buy a super drive to watch films or play music but that was a nessacary expense. Performance wise , it's top notch I can't find anything wrong with it. I am careful not to smear the screen because of the retina display, it could be harder to clean. Look, if you're to fork over your hard earned money, then get this. You will not be disappointed!!",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1522262590532-a991489a0253?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
