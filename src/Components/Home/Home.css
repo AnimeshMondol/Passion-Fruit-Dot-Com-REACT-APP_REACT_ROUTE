@@ -19,3 +19,18 @@
     color: #9d2f56;
     border: 3px solid #9d2f56;
 }
+.button2{
+    height: 60px;
+    width: 500px;
+    background-color: #9d2f56;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-weight: 800;
+    font-size: 15px;  
+}
+.button2:hover{
+    background-color: white;
+    color: #9d2f56;
+    border: 3px solid #9d2f56;
+}

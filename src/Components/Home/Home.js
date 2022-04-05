@@ -2,14 +2,21 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import img from '../Images/3.png'
 import './Home.css'
-import { faPlay } from '@fortawesome/free-solid-svg-icons';
+import { faArrowRight, faPlay } from '@fortawesome/free-solid-svg-icons';
 import useReview from '../../Hooks/useReview';
 import ReviewCart from '../ReviewCart/ReviewCart';
+import {useNavigate} from 'react-router-dom'
 
 
 const Home = () => {
-    const [reviews, setReviews] = useReview();
+    const [reviews, ] = useReview();
 
+    const navigate = useNavigate();
+
+    const goToReviewPage = () =>{
+        const path = `/review`
+        navigate(path);
+    }
     return (
         <div className='container my-5'>
             <div className='row row-cols-1 align-items-center g-5'>
@@ -27,15 +34,18 @@ const Home = () => {
             </div>
             <br />
             <h1 className='text-center fw-bolder my-5 text-color'>Customer Review!!</h1>
-            <div>
+            <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 mt-5'>
                 {
                     reviews.map(reviews => <ReviewCart
-                    key={reviews.id}
-                    reviews={reviews} 
+                        key={reviews.id}
+                        reviews={reviews}
                     ></ReviewCart>)
                 }
             </div>
-
+            <br />
+            <div className='d-flex justify-content-center'>
+                <button onClick={goToReviewPage} className='button2 my-3'>Click Here To See More Review <FontAwesomeIcon icon={faArrowRight}></FontAwesomeIcon></button>
+            </div>
         </div>
     );
 };
