@@ -36,7 +36,7 @@ const Home = () => {
             <h1 className='text-center fw-bolder my-5 text-color'>Customer Review!!</h1>
             <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 mt-5'>
                 {
-                    reviews.map(reviews => <ReviewCart
+                    reviews.slice(0, 3).map(reviews => <ReviewCart
                         key={reviews.id}
                         reviews={reviews}
                     ></ReviewCart>)
