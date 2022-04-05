@@ -1,5 +1,6 @@
 import React from 'react';
 import { Area, AreaChart, Bar, BarChart, CartesianGrid, ComposedChart, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import './Dashboard.css'
 
 const Dashboard = () => {
     const data = [
@@ -42,7 +43,7 @@ const Dashboard = () => {
     ]
     return (
         <div className='container mt-5 pt-5'>
-            <h2 className='text-center fw-bold my-3'>This is Dashboard</h2>
+            <h2 className='text-center fw-bold my-3 text-color'>This is Dashboard</h2>
             <div className='row row-cols-1 row-cols-md-2 row-cols-lg-2 g-5 mt-5'>
                 <div className='col p-3'>
                     <LineChart width={390} height={350} data={data}
