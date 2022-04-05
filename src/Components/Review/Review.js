@@ -5,7 +5,7 @@ import ReviewCart from '../ReviewCart/ReviewCart';
 const Review = () => {
     const [reviews, ] = useReview();
     return (
-        <div className='container'>
+        <div className='container pt-5 mt-5'>
             <h2 className='text-center my-3 fw-bold'>Things That Our Customers said!!</h2>
             <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 mt-5'>
                 {
@@ -15,6 +15,7 @@ const Review = () => {
                     ></ReviewCart>)
                 }
             </div>
+            <br />
         </div>
     );
 };

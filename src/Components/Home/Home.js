@@ -19,7 +19,7 @@ const Home = () => {
     }
     return (
         <div className='container my-5'>
-            <div className='row row-cols-1 align-items-center g-5'>
+            <div className='row row-cols-1 align-items-center g-5 pt-5'>
                 <div className='col-6 col-md-4 d-flex flex-column justify-content-center'>
                     <h1 className='display-2 fw-bold'>PassionFruit Pro</h1>
                     <h3 className='my-3 text-color'>Power on go with pro..</h3>
@@ -34,7 +34,7 @@ const Home = () => {
             </div>
             <br />
             <h1 className='text-center fw-bolder my-5 text-color'>Customer Review!!</h1>
-            <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 mt-5'>
+            <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 pt-5'>
                 {
                     reviews.slice(0, 3).map(reviews => <ReviewCart
                         key={reviews.id}
