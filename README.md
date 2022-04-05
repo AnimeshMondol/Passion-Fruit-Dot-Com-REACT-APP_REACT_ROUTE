@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# PROJECT NAME: Passion-Fruit-Dot-Com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Live Site Link: [Click Here...](https://github.com/facebook/create-react-app).
+
+#### Feature Used
+
+* React App (React Router)
+* React Boostrap
+* React Font Awesome
+* Chart using ReChart
 
 ## Available Scripts
 
