@@ -2,6 +2,8 @@
 
 The Live Site Link: [Click Here...](https://passionfruit-pro-dot-com.netlify.app/).
 
+Site Link : https://passionfruit-pro-dot-com.netlify.app/home
+
 #### Feature Used
 
 * React App (React Router)
